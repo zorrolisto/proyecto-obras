@@ -1,15 +1,3 @@
-export const tareas1 = [
-  {
-    id: 1,
-    nombre: "Movimiento de tierras",
-    diasPorTrabajar: 5,
-    trabajadores: 5,
-    categoria: "Viviendas",
-    trabajadorCostoPorDia: 10,
-    maquinariaCostoPorDia: 1000,
-  },
-];
-
 export const tareas = [
   {
     id: 1,
@@ -157,8 +145,8 @@ export const tareas = [
   },
 ];
 
-export const PROBABILIDAD_DE_FALTA = 20;
-export const PORCENTAJE_TRABAJADORES_MULTIPLES = 20;
+export const PROBABILIDAD_DE_FALTA = 10;
+export const PORCENTAJE_TRABAJADORES_MULTIPLES = 1; // 1% - 100%
 export const NRO_DE_SIMULACIONES = 100000;
 
 export type ResultadoTarea = {
