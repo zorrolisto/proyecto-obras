@@ -1,4 +1,1 @@
-# proyecto-obra
-# proyecto-obra
-# proyecto-obra
-# proyecto-obra
+# Proyecto para testear trabajadores con habilidades multiples
